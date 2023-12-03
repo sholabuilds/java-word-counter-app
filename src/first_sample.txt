@@ -1,0 +1,17 @@
+The is just a random piece of text.
+I have written this as a sample text file for word counting.
+It contains multiples lines and various words.
+Which are used for testing the Adaptavist technical interview task.
+Mic check!
+Test test TEST.
+Varied case sensitive repeating words WoRDS wOrdS.
+The word count for words should read: 5 and test should read: 4.
+
+Lorem ipsum, although handy as a placeholder is not much fun.
+Why don't we write some actual text as it is handy for reading purposes?
+As per the project challenge description.
+Which comes in handy as I make up words for this file.
+This application should take a file as an argument and print a word count of its contents.
+The number of occurrences starting with the most frequent word should also be sorted.
+
+Numbers are 1, 2, 1, 2.

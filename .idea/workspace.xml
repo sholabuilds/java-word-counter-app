@@ -4,16 +4,156 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="159b9951-8a1e-441c-83bf-08d50d95dae6" name="Changes" comment="" />
+    <list default="true" id="159b9951-8a1e-441c-83bf-08d50d95dae6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.adaptavist.javawordcounter" />
+      <recent name="com.adaptavist.textfileprocessor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TextFileProcessorTest.throwsExceptionForInvalidFilePath">
+    <configuration name="TextFileProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-word-counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adaptavist.textfileprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adaptavist.textfileprocessor" />
+      <option name="MAIN_CLASS_NAME" value="com.adaptavist.textfileprocessor.TextFileProcessorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextFileProcessorTest.handlesEmptyFileCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-word-counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adaptavist.textfileprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adaptavist.textfileprocessor" />
+      <option name="MAIN_CLASS_NAME" value="com.adaptavist.textfileprocessor.TextFileProcessorTest" />
+      <option name="METHOD_NAME" value="handlesEmptyFileCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextFileProcessorTest.processTextFile_PrintsWordCounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-word-counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adaptavist.textfileprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adaptavist.textfileprocessor" />
+      <option name="MAIN_CLASS_NAME" value="com.adaptavist.textfileprocessor.TextFileProcessorTest" />
+      <option name="METHOD_NAME" value="processTextFile_PrintsWordCounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextFileProcessorTest.throwsExceptionForInvalidFilePath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-word-counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adaptavist.textfileprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adaptavist.textfileprocessor" />
+      <option name="MAIN_CLASS_NAME" value="com.adaptavist.textfileprocessor.TextFileProcessorTest" />
+      <option name="METHOD_NAME" value="throwsExceptionForInvalidFilePath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-word-counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adaptavist.javawordcounter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adaptavist.javawordcounter" />
+      <option name="MAIN_CLASS_NAME" value="com.adaptavist.javawordcounter.WordCounterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java-word-counter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java-word-counter" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TextFileProcessorTest.throwsExceptionForInvalidFilePath" />
+        <item itemvalue="JUnit.TextFileProcessorTest" />
+        <item itemvalue="JUnit.TextFileProcessorTest.handlesEmptyFileCorrectly" />
+        <item itemvalue="JUnit.TextFileProcessorTest.processTextFile_PrintsWordCounts" />
+        <item itemvalue="JUnit.WordCounterTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
