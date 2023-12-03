@@ -33,9 +33,11 @@ The following third-party libraries are used in this programme:
 
    Before running the program, make sure you have Java 17 installed on your machine.
 
+
 2. **Installation**
 
-   Run `mvn clean install` to resolve dependencies and build the project.
+   - Clone the file onto your local machine => `https://github.com/sholabuilds/java-word-counter-app.git`    
+   - Run `mvn clean install` to resolve dependencies and build the project.
 
 
 3. **Running the Word Counter**
