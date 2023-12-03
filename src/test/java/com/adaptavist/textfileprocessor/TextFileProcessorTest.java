@@ -79,6 +79,4 @@ class TextFileProcessorTest {
 
         assertEquals(expectedOutput, outputStream.toString());
     }
-
-
 }

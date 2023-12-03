@@ -1,7 +1,5 @@
 package com.adaptavist.textfileprocessor;
 
-import com.adaptavist.textfileprocessor.TextFileProcessor;
-
 public class Main {
 
     public static void main(String[] args) {

@@ -24,6 +24,7 @@ public class WordCounter {
         }
     };
 
+    // For fun tinkering
     public int getCountForAGivenWord(String word, Map<String, Integer> wordCountMap) {
         String lowerCaseWord = word.toLowerCase();
         return wordCountMap.getOrDefault(lowerCaseWord, 0);
