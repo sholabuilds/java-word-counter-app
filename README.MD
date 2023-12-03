@@ -40,7 +40,7 @@ The following third-party libraries are used in this programme:
 
 3. **Running the Word Counter**
 
-   In the `textFileProcessor` module, there is a `Main` class pre-defined to run the code.
+   In the `src/main/java` folder, there is a `textFileProcessor` module with a `Main` class pre-defined to run the code.
 
    - To run the program with the first text file with words, simply type `mvn clean compile exec:java -Dexec.mainClass="com.adaptavist.textfileprocessor.Main" -Dexec.args="src/first_sample_file.txt"` in the terminal and press `Enter`.
    - To run the program with the second text file with words (in reverse order), simply type `mvn clean compile exec:java -Dexec.mainClass="com.adaptavist.textfileprocessor.Main" -Dexec.args="src/second_sample_file.txt"` in the terminal and press `Enter`.
